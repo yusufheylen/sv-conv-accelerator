@@ -1,0 +1,1 @@
+This is a generic simulated hardware accelerator written in system verilog for a convolution operation with certain constraints. I implemented the FSM, top_chip and other files / sections related to getting a faster convolution under the constraints given. 
